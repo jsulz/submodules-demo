@@ -1,0 +1,5 @@
+name: nsf-awards-cleaning
+dependencies:
+  - pandas
+  - pyarrow
+  - fastparquet
